@@ -30,7 +30,6 @@ The model gave an accuracy level of 78.37% on the test set and 91.49% on the tra
 
 ![image](https://github.com/user-attachments/assets/07a6d9bd-7d4b-4b43-bf99-337c20bab789)
 
-![image](https://github.com/user-attachments/assets/97d2f74a-67ce-442d-8aca-6a588c5af6fe)
 
 #### 2. DENSENET
 
@@ -42,7 +41,6 @@ The model gave an accuracy level of 76.92% on the test set and 82.69% on the tra
 
 ![image](https://github.com/user-attachments/assets/61137816-6238-4df2-bd39-8476267ac1bd)
 
-![image](https://github.com/user-attachments/assets/74caf82f-b165-46d4-b9a4-75590365d8c0)
 
 
 #### 3. VGG16
@@ -55,7 +53,6 @@ The model gave an accuracy level of 46.63% on the test set and 38.02% on the tra
 
 ![image](https://github.com/user-attachments/assets/5d5b6e4d-1a14-403e-9cb6-3e031a5eaac4)
 
-![image](https://github.com/user-attachments/assets/9926253a-36a6-400f-8fc3-057ba07c6cc5)
 
 #### 4.ResNet
 
@@ -69,7 +66,6 @@ The model gave an accuracy level of 63.30% on the test set and 74.98% on the tra
 
 ![image](https://github.com/user-attachments/assets/963ba40d-fcea-4a06-bbf8-75e54c54bc09)
 
-![image](https://github.com/user-attachments/assets/047de611-88a6-42b1-931c-dc93d1af6315)
 
 #### 5. InceptionNet
 
@@ -81,6 +77,9 @@ for more information visit https://static.googleusercontent.com/media/research.g
 We trained the model using 10 epochs ,each epoch having 100 steps and 25 validation steps.
 
 The model gave an accuracy level of 79.17% on the test set and 89.57% on the train set
+
+![image](https://github.com/user-attachments/assets/be43078a-5fc5-4e4c-9cfa-90a615fdc564)
+
 
 #### COMPARING THE DIFFERENT MODEL PERFORMANCE
 
